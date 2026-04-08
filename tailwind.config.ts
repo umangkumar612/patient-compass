@@ -57,6 +57,11 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        respiratory: "hsl(var(--respiratory-bg))",
+        temperature: "hsl(var(--temperature-bg))",
+        heartrate: "hsl(var(--heartrate-bg))",
+        "patient-active": "hsl(var(--patient-active))",
+        "nav-active": "hsl(var(--nav-active))",
       },
       borderRadius: {
         lg: "var(--radius)",
